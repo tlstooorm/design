@@ -1,3 +1,4 @@
+<meta charset="UTF-8">
 ---
 Logo: image/tree2.jpg
 Tagline: My portfolio.
